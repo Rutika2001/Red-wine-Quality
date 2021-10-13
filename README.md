@@ -9,5 +9,5 @@
 5.  The algorithms used in our project are :<br/>
     •	Multiple regression <br/>
     •	Random Forest Algorithm 
-   
+    
 
